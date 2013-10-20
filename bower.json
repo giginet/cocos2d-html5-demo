@@ -1,0 +1,23 @@
+{
+  "name": "cocos2d-html5-sample",
+  "version": "0.0.0",
+  "authors": [
+    "giginet <giginet.net@gmail.com>"
+  ],
+  "description": "cocos2d",
+  "main": "main.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "cocos2d": "*",
+    "jquery": "*",
+    "underscore": "*",
+    "requirejs": "*"
+  }
+}
